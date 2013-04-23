@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TWGC01A626</Machine>
+    <WindowsUser>sridhar.krishna</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>0C0295EC66089FCF1A94CE0AC9E221809C113F54C55C61CF41546BAEC2B7AF18</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>90898fbd-6b28-4d2e-ada1-0ae74f643ba0_1.0.0.0_neutral__7196awhys0jt0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>90898fbd-6b28-4d2e-ada1-0ae74f643ba0_7196awhys0jt0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>90898fbd-6b28-4d2e-ada1-0ae74f643ba0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=sridhar.krishna</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Users\sridhar.krishna\Documents\GitHub\test\M and S Home1.2\M and S Home1.2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-23T07:33:44.283</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Users\sridhar.krishna\Documents\GitHub\test\M and S Home1.2\M and S Home1.2\bin\Debug\M and S Home1.2.exe">
+      <PackagePath>M and S Home1.2.exe</PackagePath>
+      <Modified>2013-04-23T07:37:14.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\sridhar.krishna\Documents\GitHub\test\M and S Home1.2\M and S Home1.2\bin\Debug\M and S Home1.2.pdb">
+      <PackagePath>M and S Home1.2.pdb</PackagePath>
+      <Modified>2013-04-23T07:37:14.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\sridhar.krishna\Documents\GitHub\test\M and S Home1.2\M and S Home1.2\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\sridhar.krishna\Documents\GitHub\test\M and S Home1.2\M and S Home1.2\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\sridhar.krishna\Documents\GitHub\test\M and S Home1.2\M and S Home1.2\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\sridhar.krishna\Documents\GitHub\test\M and S Home1.2\M and S Home1.2\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\sridhar.krishna\Documents\GitHub\test\M and S Home1.2\M and S Home1.2\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-23T07:31:37.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\sridhar.krishna\Documents\GitHub\test\M and S Home1.2\M and S Home1.2\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\sridhar.krishna\Documents\GitHub\test\M and S Home1.2\M and S Home1.2\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-23T07:37:11.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\sridhar.krishna\Documents\GitHub\test\M and S Home1.2\M and S Home1.2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-23T07:33:29.907</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
